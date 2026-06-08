@@ -147,7 +147,7 @@ frontend/
 ### Clone Repository
 
 ```bash
-git clone 
+git clone https://github.com/ShivamSwaroop/Outera_frontend.git
 
 cd outera
 ```
