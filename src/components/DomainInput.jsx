@@ -21,6 +21,7 @@ function DomainInput() {
       const response = await api.post("/workflow/start", {
         domain: cleanDomain,
       });
+      console.log("START RESPONSE", response.data);
 
       console.log(response.data);
 
